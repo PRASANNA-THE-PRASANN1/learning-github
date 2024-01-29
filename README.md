@@ -1,2 +1,3 @@
 # learning-github
-my first repository 
+my first repository is today
+
